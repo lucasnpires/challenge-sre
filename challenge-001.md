@@ -13,7 +13,7 @@ Segue abaixo as informações relevantes sobre esta aplicação:
 
 - Leia o cenário a seguir antes de prosseguir:
 
-Visto que a aplicação precisa ser entregue de forma que não haja downtime nenhum e precisamos entregar uma nova versão gradativamente. Crie uma arquitetura que contemple esse cenário explicando a estratégia que acha que faz sentido utilizar e como as requisições TCP devem chegar nas duas versões da aplicação.
+Visto que a aplicação precisa ser entregue de forma que não haja downtime nenhum e precisamos entregar uma nova versão gradativamente. Crie uma arquitetura que contemple esse cenário explicando a estratégia que acha que faz sentido utilizar e como as requisições HTTP devem chegar nas duas versões da aplicação.
 
 > \* Assumir que é uma solução gerenciada. Ex: AKS
 
